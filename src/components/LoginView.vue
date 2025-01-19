@@ -188,7 +188,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('E:\kc_05040819\.vscode\background.jpg') no-repeat center center;
+  background: url('../assets/background.jpg') no-repeat center center;
   background-size: cover;
   padding: 20px;
   position: relative;
