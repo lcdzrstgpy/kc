@@ -188,7 +188,7 @@ export default {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url('D:\Program Files\MobileAppEngine\steam\steamapps\workshop\content\431960\1853032145\preview.jpg') no-repeat center center;
+  background: url('E:\kc_05040819\.vscode\background.jpg') no-repeat center center;
   background-size: cover;
   padding: 20px;
   position: relative;
